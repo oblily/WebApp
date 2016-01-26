@@ -1,0 +1,47 @@
+www.globalknowledge.com
+ITIL Foundation (syllabus 2011)--ITの運用についての入門的な資格
+	一回の試験で４０問出題されて、合格の基準は６５％
+	ITILの参考書は黄本も有名ですが、書店で比較してみて白本
+	http://dentakurou.web.fc2.com/ItilV3Exam/index.htm
+
+	黄色：IT Service Management教科書 ITIL ファンデーション シラバス2011 (EXAMPRESS)
+Author株式会社日立ソリューションズ 笹森 俊裕,満川 一彦
+Price￥ 3,456(at 2016/01/19 08:46)
+PublicationDate2013/12/17
+SalesRank#9,966
+単行本（ソフトカバー）504 pages
+ISBN-104798125709
+ISBN-139784798125701
+Publisher翔泳社
+	白：ITILの基礎 -ITILファンデーション(シラバス2011)試験対応-
+Author官野 厚
+Price￥ 2,700(at 2016/01/19 08:46)
+PublicationDate2013/10/19
+SalesRank#13,926
+単行本（ソフトカバー）328 pages
+ISBN-104839948607
+ISBN-139784839948603
+Publisherマイナビ
+
+EXIN Agile Scrum Foundation
+CCA-V（Citrix Certified Associate-Virtualization）
+CCP-V（Citrix Certified Professional-Virtualization）	
+
+MCSA: Windows Server 2012
+	『Exam Ref 70-410: Installing and Configuring Windows Server 2012 R2』
+	　Exam Ref 70-411 Administering Windows Server 2012 R2 
+	　Exam Ref 70-412 Configuring Advanced Windows Server 2012 R2 Services (MCSA)
+++
+↓
+①70-413 + 70-414 = MCSE: Server Infrastructure
+②70-695 + 70-696 = MCSE: Enterprise Devices and Apps
+③70-461 + 70-462 = MCSA: SQL Server 2012
+④70-461 + 70-462 + 70-464 + 70-465= MCSE: Data Platform
+⑤70-246 + 70-247 = MCSE: Private Cloud 認定
+⑥70-466 + 70-467 = MCSE: Business Intelligence
+
+⇒⇒
+70-532 = Microsoft Azure ソリューションの開発
+
+
+IZ-080:oracle my sql 5.6 試験
